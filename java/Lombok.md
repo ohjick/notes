@@ -1,4 +1,4 @@
-#Lombok
+# Lombok
 
 ### Lombok 이란?
 롬복은 자바에서 Model(DTO, VO, Domain) Object를 만들 때, 멤버필드(Property)에 대한 Getter/Setter, ToString과 멤버필드에 주입하는 생성자를 만드는 코드 등 불필요하게 반복적으로 만드는 코드를 어노테이션을 통해 줄여주는 라이브러리, 프로젝트이다.
