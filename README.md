@@ -1,14 +1,10 @@
 # 기억보다는 기록을...
 
-## notes
-
-Jino's dev notes
-
-제목 Headers
-
+## Markdown Syntax
+### 제목
 ## h1
+###### h6
 
-~
-
-## \*6 h6
+===
+--- 
 
