@@ -1,2 +1,2 @@
 # notes
-dev notes
+Jino's dev notes
